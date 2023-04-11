@@ -1,3 +1,7 @@
+## Hey there! Welcome to our page 👋
+
+![Hihg res file-02](https://user-images.githubusercontent.com/34080279/231186193-8c460d26-ad98-4834-9f74-81473a7bc0d8.jpg)
+
 Welcome to Exacode's Github organization page!
 
 We are a leading app development company based in Jakarta, Indonesia, with over 5 years of experience in the industry. Our services include UI/UX designing, mobile app development, website development, custom web app development, and more.
